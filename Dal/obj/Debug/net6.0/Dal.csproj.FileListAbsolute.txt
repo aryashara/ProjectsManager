@@ -1,0 +1,12 @@
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/bin/Debug/net6.0/Dal.deps.json
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/bin/Debug/net6.0/Dal.dll
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/bin/Debug/net6.0/Dal.pdb
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/Dal.csproj.AssemblyReference.cache
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/Dal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/Dal.AssemblyInfoInputs.cache
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/Dal.AssemblyInfo.cs
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/Dal.csproj.CoreCompileInputs.cache
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/Dal.dll
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/refint/Dal.dll
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/Dal.pdb
+/Users/tanyavanhoebroeck/Desktop/ProjectsManager/Dal/obj/Debug/net6.0/ref/Dal.dll
